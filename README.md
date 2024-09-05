@@ -51,7 +51,7 @@ The PowerBI dashboard includes the following visualizations:
 4. **External Health Expenditure Trends**: Displays reliance on external contributions in low-income regions.
 5. **Average Out-of-Pocket Expenditure by Region**: Shows the burden of out-of-pocket costs in various countries.
 
-You can explore the dashboard for deeper insights into global health expenditure [here](#).
+You can explore the dashboard for deeper insights into global health expenditure [here](global_health_expenditure_dashboard.pdf).
 
 ## **Technologies Used**
 - **Python Libraries**: pandas, numpy, seaborn, matplotlib.
