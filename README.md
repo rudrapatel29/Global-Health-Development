@@ -1,7 +1,3 @@
-Here’s an updated version of your README markdown with descriptions of the key terms used in the analysis:
-
----
-
 # **Global Health Expenditure Analysis (WHO)**
 
 This repository contains a comprehensive analysis of the Global Health Expenditure Database from the World Health Organization (WHO). The analysis explores key trends, insights, and disparities in global health spending across countries and regions, focusing on several important metrics such as **Current Health Expenditure (CHE)**, **Domestic General Government Health Expenditure (GGHE-D)**, and **Out-of-Pocket Expenditure (OOPS)**. The dataset is sourced from the WHO Global Health Expenditure Database: [WHO Database](https://apps.who.int/nha/database/Select/Indicators/en).
@@ -39,7 +35,7 @@ An **interactive Power BI dashboard** has been created to visualize the key insi
 4. **External Health Expenditure Trends**: Displays the increasing reliance on external contributions in low-income regions.
 5. **Average Out-of-Pocket Expenditure by Region**: Shows the burden of out-of-pocket costs, especially in countries like Yemen and Uzbekistan, where individuals pay a higher percentage of their GDP on healthcare.
 
-You can explore the dashboard for deeper insights into global health expenditure [here](global_health_expenditure_dashboard.pdf).
+You can explore the dashboard for deeper insights into global health expenditure [here](https://github.com/rudrapatel29/Global-Health-Expenditure/blob/main/global_health_expenditure_dashboard.pdf).
 
 ## **Technologies Used**
 - **Python Libraries**: pandas, numpy, seaborn, matplotlib, etc.
@@ -51,5 +47,3 @@ You can explore the dashboard for deeper insights into global health expenditure
 The analysis reveals significant disparities in health expenditure globally, with wealthier countries and regions generally investing more in healthcare relative to GDP, while lower-income regions often depend on external contributions. The insights gained from this project highlight the importance of health funding strategies tailored to regional needs and economic capabilities.
 
 ---
-
-This README now provides a clear understanding of the project along with descriptions of the key terms used in the analysis. Let me know if you'd like any further adjustments!
