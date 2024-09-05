@@ -1,12 +1,9 @@
 # **Global Health Expenditure Analysis (WHO)**
 
-## **Overview**
-This project analyzes the Global Health Expenditure Database from the World Health Organization (WHO) to uncover trends, patterns, and disparities in health spending across countries and regions. The analysis involves data cleaning, exploration, visualization, and statistical analysis to provide insights into global health expenditure and its implications on healthcare systems.
+This repository contains a comprehensive analysis of the Global Health Expenditure Database from the World Health Organization (WHO). The analysis explores key trends, insights, and disparities in global health spending across countries and regions, focusing on several important metrics such as **Current Health Expenditure (CHE)**, **Domestic General Government Health Expenditure (GGHE-D)**, and **Out-of-Pocket Expenditure (OOPS)**. The dataset is sourced from the WHO Global Health Expenditure Database: [WHO Database](https://apps.who.int/nha/database/Select/Indicators/en).
 
-## **Project Goals**
-- **Popularity Analysis**: Investigate how health expenditure varies across countries and regions, and identify regions with the highest and lowest expenditure.
-- **Regional Analysis**: Determine health expenditure patterns across different regions and income groups.
-- **Spending Trends**: Examine changes in health expenditure over time and its impact on healthcare accessibility.
+## **Project Overview**
+The project investigates how global health expenditure varies across different regions, countries, and income groups, and the implications of these variations on healthcare systems and access. Through data cleaning, exploration, visualizations, and dashboards, this repository provides insights into the relationships between different forms of health spending and economic conditions.
 
 ## **Data Wrangling and Manipulation**
 The following techniques were used to clean and manipulate the dataset:
